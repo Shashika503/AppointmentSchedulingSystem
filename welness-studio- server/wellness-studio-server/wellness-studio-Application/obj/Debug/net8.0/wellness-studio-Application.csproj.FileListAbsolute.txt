@@ -1,0 +1,15 @@
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\bin\Debug\net8.0\wellness-studio-Application.deps.json
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\bin\Debug\net8.0\wellness-studio-Application.dll
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\bin\Debug\net8.0\wellness-studio-Application.pdb
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\bin\Debug\net8.0\wellness-studio-Domain.dll
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\bin\Debug\net8.0\wellness-studio-Domain.pdb
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness-studio-Application.csproj.AssemblyReference.cache
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness-studio-Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness-studio-Application.AssemblyInfoInputs.cache
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness-studio-Application.AssemblyInfo.cs
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness-studio-Application.csproj.CoreCompileInputs.cache
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness.AA12A3FF.Up2Date
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness-studio-Application.dll
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\refint\wellness-studio-Application.dll
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\wellness-studio-Application.pdb
+D:\AppointmentSchedulingSystem\welness-studio- server\wellness-studio-server\wellness-studio-Application\obj\Debug\net8.0\ref\wellness-studio-Application.dll

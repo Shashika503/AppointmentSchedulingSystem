@@ -1,0 +1,6 @@
+@wellness_studio_API_HostAddress = http://localhost:5009
+
+GET {{wellness_studio_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

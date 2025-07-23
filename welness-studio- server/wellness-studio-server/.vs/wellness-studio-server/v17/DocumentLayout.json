@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\repositories\\timeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\repositories\\timeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-application\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|solutionrelative:wellness-studio-application\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-application\\validators\\timeslotdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|solutionrelative:wellness-studio-application\\validators\\timeslotdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\interfaces\\itimeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\interfaces\\itimeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-application\\dtos\\timeslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|solutionrelative:wellness-studio-application\\dtos\\timeslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\wellness-studio-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\wellness-studio-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\wellness-studio-infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\wellness-studio-infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\logs\\log-20250721.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\logs\\log-20250721.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-application\\dtos\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|solutionrelative:wellness-studio-application\\dtos\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\migrations\\20250720161203_addupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\migrations\\20250720161203_addupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\logs\\log-20250720.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\logs\\log-20250720.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-api\\logs\\log-20250719.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394FC7D2-716F-404A-8F7E-5D7C2DFE8ED1}|wellness-studio-API\\wellness-studio-API.csproj|solutionrelative:wellness-studio-api\\logs\\log-20250719.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-application\\validators\\appointmentcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40116F3D-6733-4DB0-B29C-C7227E364B89}|wellness-studio-Application\\wellness-studio-Application.csproj|solutionrelative:wellness-studio-application\\validators\\appointmentcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250720053342_addpasswordencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wellness-studio-Infrastructure\\Migrations\\20250720053342_addpasswordencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298D89F-CA04-4D36-8473-DDF162EC1D7A}|wellness-studio-Domain\\wellness-studio-Domain.csproj|solutionrelative:wellness-studio-domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|d:\\appointmentschedulingsystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-infrastructure\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C1E3E-79D9-4346-971A-DA11FA086357}|wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj|solutionrelative:wellness-studio-infrastructure\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719175943_Addpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wellness-studio-Infrastructure\\Migrations\\20250719175943_Addpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719175626_Addpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wellness-studio-Infrastructure\\Migrations\\20250719175626_Addpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719162712_Addpasswordencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wellness-studio-Infrastructure\\Migrations\\20250719162712_Addpasswordencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:48:31.549Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwDUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:49:15.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "wellness-studio-API.csproj",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\wellness-studio-API.csproj",
+              "RelativeDocumentMoniker": "wellness-studio-API\\wellness-studio-API.csproj",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\wellness-studio-API.csproj",
+              "RelativeToolTip": "wellness-studio-API\\wellness-studio-API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T07:40:11.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "wellness-studio-Infrastructure.csproj",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\wellness-studio-Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T07:28:37.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "log-20250721.txt",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\logs\\log-20250721.txt",
+              "RelativeDocumentMoniker": "wellness-studio-API\\logs\\log-20250721.txt",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\logs\\log-20250721.txt",
+              "RelativeToolTip": "wellness-studio-API\\logs\\log-20250721.txt",
+              "ViewState": "AgIAAK4DAAAAAAAAAAAAAIMDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-21T06:49:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\DTOs\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Application\\DTOs\\AppointmentDto.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\DTOs\\AppointmentDto.cs",
+              "RelativeToolTip": "wellness-studio-Application\\DTOs\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:26:15.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppointmentCreateDto.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\DTOs\\AppointmentCreateDto.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Application\\DTOs\\AppointmentCreateDto.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\DTOs\\AppointmentCreateDto.cs",
+              "RelativeToolTip": "wellness-studio-Application\\DTOs\\AppointmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:26:13.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeSlotRepository.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Repositories\\TimeSlotRepository.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Repositories\\TimeSlotRepository.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Repositories\\TimeSlotRepository.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Repositories\\TimeSlotRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:38:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250720161203_Addupdate.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250720161203_Addupdate.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Migrations\\20250720161203_Addupdate.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250720161203_Addupdate.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Migrations\\20250720161203_Addupdate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:12:03.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppointmentCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\Validators\\AppointmentCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Application\\Validators\\AppointmentCreateDtoValidator.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\Validators\\AppointmentCreateDtoValidator.cs",
+              "RelativeToolTip": "wellness-studio-Application\\Validators\\AppointmentCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:48:35.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:15:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeSlotDtoValidator.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\Validators\\TimeSlotDtoValidator.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Application\\Validators\\TimeSlotDtoValidator.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\Validators\\TimeSlotDtoValidator.cs",
+              "RelativeToolTip": "wellness-studio-Application\\Validators\\TimeSlotDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:24:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Entities\\TimeSlot.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\TimeSlot.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Entities\\TimeSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:23:49.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TimeSlotDto.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\DTOs\\TimeSlotDto.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Application\\DTOs\\TimeSlotDto.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\DTOs\\TimeSlotDto.cs",
+              "RelativeToolTip": "wellness-studio-Application\\DTOs\\TimeSlotDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:23:42.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "wellness-studio-API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "wellness-studio-API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAApwGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:54:11.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "log-20250719.txt",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\logs\\log-20250719.txt",
+              "RelativeDocumentMoniker": "wellness-studio-API\\logs\\log-20250719.txt",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\logs\\log-20250719.txt",
+              "RelativeToolTip": "wellness-studio-API\\logs\\log-20250719.txt",
+              "ViewState": "AgIAANkAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-20T05:53:49.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Program.cs",
+              "RelativeDocumentMoniker": "wellness-studio-API\\Program.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Program.cs",
+              "RelativeToolTip": "wellness-studio-API\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:29:26.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "wellness-studio-API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "wellness-studio-API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:23:51.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\appsettings.json",
+              "RelativeDocumentMoniker": "wellness-studio-API\\appsettings.json",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\appsettings.json",
+              "RelativeToolTip": "wellness-studio-API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T07:22:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "log-20250720.txt",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\logs\\log-20250720.txt",
+              "RelativeDocumentMoniker": "wellness-studio-API\\logs\\log-20250720.txt",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\logs\\log-20250720.txt",
+              "RelativeToolTip": "wellness-studio-API\\logs\\log-20250720.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-20T07:38:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "wellness-studio-API\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "wellness-studio-API\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:54:12.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:47:54.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:47:26.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:24:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:09:54.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:42:15.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250720053342_addpasswordencrypt.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250720053342_addpasswordencrypt.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Migrations\\20250720053342_addpasswordencrypt.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250720053342_addpasswordencrypt.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Migrations\\20250720053342_addpasswordencrypt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:33:42.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITimeSlotRepository.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\ITimeSlotRepository.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Interfaces\\ITimeSlotRepository.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\ITimeSlotRepository.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Interfaces\\ITimeSlotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:09:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:10:01.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\User.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:11:28.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "wellness-studio-Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:46:56.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:47:10.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250719175626_Addpassword.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719175626_Addpassword.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Migrations\\20250719175626_Addpassword.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719175626_Addpassword.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Migrations\\20250719175626_Addpassword.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:56:26.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250719175943_Addpassword.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719175943_Addpassword.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Migrations\\20250719175943_Addpassword.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719175943_Addpassword.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Migrations\\20250719175943_Addpassword.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:59:43.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250719162712_Addpasswordencrypt.cs",
+              "DocumentMoniker": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719162712_Addpasswordencrypt.cs",
+              "RelativeDocumentMoniker": "wellness-studio-Infrastructure\\Migrations\\20250719162712_Addpasswordencrypt.cs",
+              "ToolTip": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Infrastructure\\Migrations\\20250719162712_Addpasswordencrypt.cs",
+              "RelativeToolTip": "wellness-studio-Infrastructure\\Migrations\\20250719162712_Addpasswordencrypt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:27:12.681Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

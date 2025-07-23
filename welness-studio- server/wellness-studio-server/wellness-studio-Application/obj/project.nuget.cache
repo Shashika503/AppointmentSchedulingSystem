@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "trqL79B7kyM=",
+  "success": true,
+  "projectFilePath": "D:\\AppointmentSchedulingSystem\\welness-studio- server\\wellness-studio-server\\wellness-studio-Application\\wellness-studio-Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
