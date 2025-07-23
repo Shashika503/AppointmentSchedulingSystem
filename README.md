@@ -139,6 +139,14 @@ dotnet run
     - See only available slots (no double-booking).
 
     - View your own appointments.
+ ### **Demo Login Credentials**
+
+ - These credentials are shown on the frontend login page (for demo/testing):
+
+ | Role    |Username | Password  |
+| -------- | ------- |------- |
+|  Admin | admin   | admin123 
+| Client | client1     | client123
 
 
 
